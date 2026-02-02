@@ -1,0 +1,9 @@
+# Core
+numpy>=1.23
+opencv-python>=4.8
+
+# Deep Learning
+torch>=2.0
+
+# Optional (GPU 사용 시)
+# torchvision>=0.15
